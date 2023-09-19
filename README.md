@@ -24,17 +24,6 @@ Result'<T\> es fácil de utilizar en tu código. Aquí hay ejemplos de cómo pue
 ```csharp
 var successResult = Result<string>.Success("Operación exitosa");
 ```
-### Crear un resultado con error: ❌
-
-```csharp
-var errorResult = Result<string>.Failure(new ErrorResponseDTO
-{
-    Status = 404,
-    Error = "Not Found",
-    Message = "El recurso no se encontró"
-});
-
-```
 
 Crear un resultado de error personalizado: ⚙️
 
