@@ -17,7 +17,7 @@ En el desarrollo de aplicaciones, es importante mantener un manejo claro y efici
 
 ## Cómo Utilizar Result\<T\> 📝 - REVISAR
 
-Result'<T\> es fácil de utilizar en tu código. Aquí hay ejemplos de cómo puedes aprovechar esta clase:
+Result<T\> es fácil de utilizar en tu código. Aquí hay ejemplos de cómo puedes aprovechar esta clase:
 
 ### Crear un resultado exitoso: ✅
 
