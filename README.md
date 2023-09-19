@@ -31,6 +31,10 @@ Crear un resultado de error personalizado: ⚙️
 var customErrorResult = Result<string>.ErrorSender(500, "Error interno del servidor");
 ```
 
+## Performance: 📈
+### Stress-Test:
+TODO
+
 ## Contribuciones 🤝
 
 ¡Las contribuciones son bienvenidas! Si tienes sugerencias de mejora, informes de errores o deseas colaborar en el desarrollo de este proyecto, no dudes en abrir un problema o enviar una solicitud de extracción.
